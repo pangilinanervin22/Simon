@@ -1,8 +1,3 @@
-//loading effect
-setTimeout(() => {
-	document.getElementById("modal_loading").classList.add("hide");
-}, 3000);
-
 // dom declaration
 const startButton = document.getElementById("start");
 const levelText = document.getElementById("level");
